@@ -4,7 +4,7 @@ This repository includes all files used for my uni project about solving nonogra
 
 ### What can be found in thia repository:
 * Three Python code files:
-    * *Nonogramy.py* - includes class Nonogram and coded puzzle boards of five nonograms .
+    * *Nonogramy.py* - includes class $Nonogram$ and coded puzzle boards of five nonograms .
     * *genetyczny.py* - code for solving nonograms using GA.
     * *PSO.py* - code for solving nonograms with PSO method.
 * *Nonograms* - folder which includes pictures of nonograms used for this project (source shorturl.at/egqxK)
